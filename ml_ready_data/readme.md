@@ -1,3 +1,5 @@
+# ML Data Explanations
+
 There are three main types of input (only one is used at a time)
 * **One Hot Counts**
 	* 'I like to eat cake and I like to eat cookies" 
